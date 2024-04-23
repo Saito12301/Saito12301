@@ -1,4 +1,5 @@
 ### Hi there 👋
+こんにちは
 
 <!--
 **Saito12301/Saito12301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
